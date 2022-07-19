@@ -46,7 +46,7 @@
     "gatsby-theme-i18n": "^2.0.0",
     "graphql": "15.3.0",
     "graphql-client": "^2.0.1",
-    "graphql-request": "3.7.0",
+    "graphql-request": "3.1.0",
     "html-pdf": "^3.0.1",
     "isomorphic-unfetch": "^3.1.0",
     "jquery": "^3.6.0",
